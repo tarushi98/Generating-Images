@@ -1,2 +1,3 @@
 # Generating-Images
-ImageDataGenerator
+
+Used Image Data Generator to create n number of Images. 
